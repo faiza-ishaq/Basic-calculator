@@ -1,2 +1,2 @@
-# CodSoft-Task-2
-I created a calculator as second task of my CodSoft Internship. 
+# CodSoft-Task-3
+I created a calculator as third task of my CodSoft Internship. 
